@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186091631175",
+    "project_id": "basel-app-a5fcd",
+    "storage_bucket": "basel-app-a5fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186091631175:android:9b47298f5867507cb13762",
+        "android_client_info": {
+          "package_name": "com.smarthouse.arduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186091631175-41dbm026fme1p2pg7hh944shh4h5jdm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCsBJF6XFIjGsASb53CQ2JAS_Vx7I-WxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186091631175-41dbm026fme1p2pg7hh944shh4h5jdm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
